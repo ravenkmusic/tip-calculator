@@ -6,3 +6,4 @@
 #Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 #Write your code below this line 👇
+print("Welcome to th tip calculator!")
